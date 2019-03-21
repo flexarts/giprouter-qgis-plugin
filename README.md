@@ -35,5 +35,5 @@ Either from QGIS plugin repository or manually:
 
 ## License
 
-This project is published under the MIT license, see [LICENSE.md](https://github.com/giprouter-qgis-plugin/blob/master/LICENSE.md) for details.
+This project is published under the MIT license, see [LICENSE.md](https://github.com/flexarts/giprouter-qgis-plugin/blob/master/LICENSE.md) for details.
 
