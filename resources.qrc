@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/gip_router" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
