@@ -22,19 +22,18 @@ Download IDF datasets used by this router from austrian government open-data pla
 
 > https://www.data.gv.at/katalog/dataset/intermodales-verkehrsreferenzsystem-osterreich-gip-at-beta/resource/0775cf69-7119-43ec-af09-9da1016a4b94 
 
-Sample OGD dataset included [here](https://github.com/flexarts/OSMtools/archive/master.zip)
+Sample OGD dataset included [here](https://github.com/flexarts/giprouter-qgis-plugin/blob/master/data/Routingexport_Wien_OGD.txt) ([Licence](https://github.com/flexarts/giprouter-qgis-plugin/blob/master/data/Routingexport_Wien_OGD.licence.txt)).
 
 ### Installation
 
 Either from QGIS plugin repository or manually:
-  - [Download](https://github.com/nilsnolde/OSMtools/archive/master.zip) ZIP file from Github
-  - Unzip folder contents and copy `ORStools` folder to:
+  - [Download](https://github.com/flexarts/giprouter-qgis-plugin/archive/master.zip) ZIP file from Github
+  - Unzip folder to `giprouter` and copy folder to:
     - Linux: `~/.local/share/QGIS/QGIS3/profiles/default/python/plugins`
     - Windows: `C:\Users\USER\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins`
     - Mac OS: `Library/Application Support/QGIS/QGIS3/profiles/default/python/plugins`
 
 ## License
 
-This project is published under the GPLv3 license, see [LICENSE.md](https://github.com/nilsnolde/ORStools/blob/master/LICENSE.md) for details.
+This project is published under the MIT license, see [LICENSE.md](https://github.com/giprouter-qgis-plugin/blob/master/LICENSE.md) for details.
 
-By using this plugin, you also agree to the terms and conditions of OpenRouteService, as outlined [here](https://openrouteservice.org/terms-of-service/).
